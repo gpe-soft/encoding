@@ -11,4 +11,6 @@
     <packaging>jar</packaging>
 
     <master></master>
+    <develop></develop>
+
 </project>
