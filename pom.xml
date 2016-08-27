@@ -10,4 +10,6 @@
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
+    <develop></develop>
+
 </project>
